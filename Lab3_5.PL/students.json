@@ -1,0 +1,82 @@
+[
+  {
+    "LastName": "Коваленко",
+    "Course": 5,
+    "StudentTicket": "КВ12345601",
+    "Gender": "Male",
+    "AverageGrade": 95.5,
+    "IdentificationCode": "3012345671",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Шевчук",
+    "Course": 5,
+    "StudentTicket": "КВ12345602",
+    "Gender": "Male",
+    "AverageGrade": 91.2,
+    "IdentificationCode": "3012345672",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Мельник",
+    "Course": 5,
+    "StudentTicket": "КВ12345603",
+    "Gender": "Female",
+    "AverageGrade": 97.0,
+    "IdentificationCode": "3012345673",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Бондаренко",
+    "Course": 5,
+    "StudentTicket": "КВ12345604",
+    "Gender": "Male",
+    "AverageGrade": 84.3,
+    "IdentificationCode": "3012345674",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Ткаченко",
+    "Course": 4,
+    "StudentTicket": "КВ12345605",
+    "Gender": "Male",
+    "AverageGrade": 98.1,
+    "IdentificationCode": "3012345675",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Дем'яненко",
+    "Course": 5,
+    "StudentTicket": "КВ12345606",
+    "Gender": "Male",
+    "AverageGrade": 90.0,
+    "IdentificationCode": "3012345676",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Кравчук",
+    "Course": 2,
+    "StudentTicket": "КВ12345607",
+    "Gender": "Female",
+    "AverageGrade": 76.4,
+    "IdentificationCode": "3012345677",
+    "IsGraduated": false,
+    "Diploma": "None"
+  },
+  {
+    "LastName": "Олійник",
+    "Course": 5,
+    "StudentTicket": "КВ12345608",
+    "Gender": "Male",
+    "AverageGrade": 93.7,
+    "IdentificationCode": "3012345678",
+    "IsGraduated": true,
+    "Diploma": "WithHonors"
+  }
+]

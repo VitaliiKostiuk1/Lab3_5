@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- BLL (Business Logic Layer) — рівень бізнес-логіки: сутності, правила, операції.
+       Саме цей рівень покривається модульними тестами. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Lab3_5.BLL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab3_5.DAL\Lab3_5.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
